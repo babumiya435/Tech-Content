@@ -4,7 +4,7 @@ This repository contains the technical content related to technologies like:  ht
 ---------------------------------------------------------------------
 
 # Design Blog or Page
-APP1 page --------> Page1 ---------> Page2 --------> Popup or Page3
+APP1 page --------> View1 ---------> View2 --------> Popup or View3
 In Future more design changes are expected....
 
 ---------------------------------------------------------------------
